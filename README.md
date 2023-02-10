@@ -7,7 +7,7 @@ Dataset :-
 https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
 
 ### Data Cleaning :- 
-- Eliminating the duplicate columns, replacing a specific column that contains a specific character with nan values
+- Eliminating the duplicate columns, replacing a specific column that contains a special character with nan values
 - The outliers were removed using the iqr approach.
 
 ### Feature Engineering :-
