@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
 
 ### Model Creation :- 
 ##### Decision Tree Regressor
+- Beginning with a decision tree regressor, training the input data with a decision tree method and model worked extremely well and produced training data with a high degree of accuracy. The test data's predictions were correct.
 
 ### Model Evaluation :- 
 - R2 Score :- 0.99
