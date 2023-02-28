@@ -1,10 +1,7 @@
 # Car price prediction
 
 Description :-
-Estimating a car's price based on its features. 
-
-Dataset :- 
-https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge
+- This project aims to estimate a car's price based on its features using machine learning techniques. The dataset used in this project can be found here.
 
 ### Data Cleaning :- 
 - Eliminating the duplicate columns, replacing a specific column that contains a special character with nan values
