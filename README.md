@@ -1,7 +1,7 @@
 # Car price prediction
 
 Description :-
-- This project aims to estimate a car's price based on its features using machine learning techniques. The dataset used in this project can be found here[https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge].
+- This project aims to estimate a car's price based on its features using machine learning techniques. The dataset used in this project can be found [here] (https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge).
 
 ### Data Cleaning :- 
 - Eliminating the duplicate columns, replacing a specific column that contains a special character with nan values
@@ -16,9 +16,7 @@ Description :-
 - Beginning with a decision tree regressor, training the input data with a decision tree method and model worked extremely well and produced training data with a high degree of accuracy. The test data's predictions were correct.
 
 ### Model Evaluation :- 
-- R2 Score :- 0.99
-- Mean absolute error :- 17.79
-- Mean absolute percentage error :- 0.005
+- The R2 score achieved was 0.99, indicating a highly accurate model. The mean absolute error was 17.79, and the mean absolute percentage error was 0.005.
 
 
 ### Conclusion :- 
